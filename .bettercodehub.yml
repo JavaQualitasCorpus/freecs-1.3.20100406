@@ -1,0 +1,31 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./build/.*
+- ./classes/.*
+- ./classes/freecs/.*
+- ./classes/freecs/auth/.*
+- ./classes/freecs/auth/sqlConnectionPool/.*
+- ./classes/freecs/commands/.*
+- ./classes/freecs/content/.*
+- ./classes/freecs/core/.*
+- ./classes/freecs/external/.*
+- ./classes/freecs/external/xmlrpc/.*
+- ./classes/freecs/interfaces/.*
+- ./classes/freecs/layout/.*
+- ./classes/freecs/util/.*
+- ./classes/freecs/util/logger/.*
+- ./config/.*
+- ./docs/.*
+- ./docs/Handbook/.*
+- ./docs/howto/.*
+- ./grouppolicies/.*
+- ./lib/.*
+- ./lib/xmlrpc/.*
+- ./static/.*
+- ./templatesets/.*
+- ./templatesets/admin/.*
+- ./templatesets/dark/.*
+- ./templatesets/default/.*
+- ./templatesets/german/.*
